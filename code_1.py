@@ -1,5 +1,4 @@
 #Name Carlos Diaz de Leon
-#CIS 3330
 #CODE 1 - Weather Assistant
 #Conversion formula: (Temperature in °F - 32) * .5556
 #Note that the message to user should be the following "What is the temperature outside:"
